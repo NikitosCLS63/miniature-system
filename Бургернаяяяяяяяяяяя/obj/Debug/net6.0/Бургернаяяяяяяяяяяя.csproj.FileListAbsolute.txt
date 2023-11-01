@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\bin\Debug\net6.0\Бургернаяяяяяяяяяяя.exe
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\bin\Debug\net6.0\Бургернаяяяяяяяяяяя.deps.json
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\bin\Debug\net6.0\Бургернаяяяяяяяяяяя.runtimeconfig.json
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\bin\Debug\net6.0\Бургернаяяяяяяяяяяя.dll
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\bin\Debug\net6.0\Бургернаяяяяяяяяяяя.pdb
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.AssemblyInfo.cs
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.dll
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\refint\Бургернаяяяяяяяяяяя.dll
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.pdb
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\Бургернаяяяяяяяяяяя.genruntimeconfig.cache
+C:\Users\User\Desktop\хуй1\Бургернаяяяяяяяяяяя\Бургернаяяяяяяяяяяя\obj\Debug\net6.0\ref\Бургернаяяяяяяяяяяя.dll
